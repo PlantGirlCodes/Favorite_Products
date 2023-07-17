@@ -1,0 +1,27 @@
+p {
+    text-align:left;
+    color:rgb(40, 40, 40); 
+    font-size:18px;
+    width: 50%;
+
+}
+body{
+    background-color: rgb(222, 222, 222);
+    
+}
+H1{
+    color: rgb(180, 14, 185);font-family: 'Dancing Script', cursive;
+}
+
+H3{
+    color: rgb(13, 136, 158);font-size:20px;
+}
+
+h7{
+    color: rgb(198, 35, 141);font-family: 'Dancing Script', cursive;
+    font-size:18px;
+}
+
+
+
+
