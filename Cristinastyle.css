@@ -1,0 +1,42 @@
+p {
+    text-align:left;
+    color:rgb(40, 40, 40); 
+    font-size:18px;
+    width: 50%;
+
+}
+body {
+    background-image: url("https://cdn.pixabay.com/photo/2016/11/05/12/38/fuzzy-1800136_1280.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+H1{
+    color: rgb(180, 14, 185);font-family: 'Dancing Script', cursive;
+}
+
+H3{
+    color: rgb(11, 71, 213);font-size:20px;
+}
+
+h7{
+    color: rgb(198, 35, 141);font-family: 'Dancing Script', cursive;
+    font-size:18px;
+}
+.sparkle {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
+.sparkle > div {
+    background-color: rgb(188, 9, 164);
+    margin: 50px;
+    padding: 20px;
+    font-size: 20px
+    
+}
+
+
+
+
+
